@@ -11,7 +11,7 @@ Atenção, o projeto ainda está em desenvolvimento e as próximas atualizaçõe
 - [x] Algoritmização do sistema de sortei.
 - [x] Implementação do algoritmo;
 - [x] Criação da CLI;
-- [ ] Criação e implementação de interface gráfica;
+- [x] Criação e implementação de interface gráfica;
 - [ ] Geração de uma aplicação de Sistema (para Windows e Linux).
 
 ## 💻 Pré-requisitos:
