@@ -1,8 +1,8 @@
-# SISTEMA GERADOR DE QR CODE.
+# SISTEMA geradorQRCODE.
 
-<img src="qrcode.png" alt="exemplo imagem">
+<img src="#" alt="exemplo imagem">
 
-> Em nosso programa iremos gerar QR Code com conteúdos escolhidos pelo usuário.
+> Em nosso programa ...
 
 ### Ajustes e melhorias:
 
@@ -63,7 +63,7 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
 <table>
   <tr>
     <td align="center">
-      <a href="#">
+      <a href="https://www.linkedin.com/in/luizesquivel/">
         <img src="luiz.png" width="100px;" alt="Foto de Luiz Esquivel"/><br>
         <sub>
           <b>Luiz Esquivel - 20 anos, médio completo, analista de dados Jr.</b>

@@ -13,3 +13,8 @@ while True:
     requisito = int(input('Digite 0 para fazer outro e 1 para finalizar o programa: '))
     if requisito != 1: os.system('cls')
     else: break
+    
+def gerarQRCODE(conteudo):
+    data = str(conteudo)
+    codigo = qrcode.make(data)
+    codigo.save('qrcode.png')
